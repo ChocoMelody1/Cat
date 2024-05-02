@@ -1,18 +1,43 @@
 h1 {
   color: #DC143C;
 text-align: center;
-  font-family: verdana;
+  font-family: "luminary", fantasy;
   font-size:75px
 }
+h2 {
+color: #DC143C;
+text-align: center;
+  font-family: verdana;
+  
+}
+h3 {
+color: #DC143C;
+text-align: center;
+  font-family: verdana;
+}
 
+h4 {
+color: #DC143C;
+text-align: center;
+  font-family: verdana;
+}
+h5 {
+color: #DC143C;
+text-align: center;
+  font-family: verdana;
+}
+h6 {
+color: #DC143C;
+text-align: center;
+  font-family: verdana;
+}
 
-
-
-
-
-
-
-
+p {
+  color: #DC143C;
+  text-align: center;
+  font-family: "Courier New", Times;
+  font-size: 14px;
+}
 
 
 body {
