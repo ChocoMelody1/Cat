@@ -1,4 +1,20 @@
 h1 {
-  color:red;
+  color: #DC143C;
 text-align: center;
+  font-family: verdana;
+  font-size:75px
+}
+
+
+
+
+
+
+
+
+
+
+
+body {
+  background: linear-gradient(0, #E6E6FA, #4B0082);
 }
